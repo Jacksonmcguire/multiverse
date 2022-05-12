@@ -1,0 +1,16 @@
+{
+  "name": "cheese-board-prep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.0",
+    "sequelize": "^6.19.0",
+    "sqlite3": "^5.0.8"
+  }
+}
